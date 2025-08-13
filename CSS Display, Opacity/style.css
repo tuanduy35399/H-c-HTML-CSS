@@ -1,0 +1,16 @@
+.Caunoi {
+    font-size: large;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:bold ;
+    color: #ffff;
+}
+.lammo {
+    opacity: 0.6;
+}
+.bg_color{
+    background-color: brown;
+}
+body {
+     background-image:url('bg.jpg');
+    background-size: cover;
+}
