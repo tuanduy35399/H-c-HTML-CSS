@@ -1,0 +1,27 @@
+a[id="1"]:hover{
+    color: red;
+}
+a[id="1"]:active{
+    color: green;
+}
+a[id="3"]:hover{
+    color: green;
+}
+button[title="Màu 1"]:hover {
+    background-color: azure;
+    color:blue;
+    font-size: 30px;
+    border-color:yellow ;
+    border-width: 5px;
+}
+button[title="Màu 2"]:hover {
+    background-color: azure;
+    color:red;
+    font-size: 30px;
+}
+button[title="Màu 3"]:hover {
+    background-color: azure;
+    color:yellow;
+    font-size: 30px;
+}
+
