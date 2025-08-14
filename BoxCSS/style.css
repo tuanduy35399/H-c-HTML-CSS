@@ -1,0 +1,19 @@
+#box1{
+    width: 200px;
+    height: 200px;
+    color: red;
+    background-color: blue;
+    border: 5px solid black;
+}
+#box2{
+    width: 200px;
+    height: 200px;
+    color: blue;
+    background-color: yellow;
+    border: 5px solid black;
+    /*padding: 20px; /*áp dụng trên dưới trái phải 20px*/
+    /* padding: 20px; /*áp dụng trên dưới trái phải 20px*/
+    /* padding: 20px 40px; /*áp dụng trên dưới 20px, trái phải 40px*/
+    /* padding: 20px 40px 30px; /*áp dụng trên 20px, trái phải 40px, dưới 30px*/
+    padding: 20px 10px 20px 10px; /*áp dụng trên 20px, phải 10px, dưới 20px, trái 10px*/
+}
