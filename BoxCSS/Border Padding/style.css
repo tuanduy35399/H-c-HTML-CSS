@@ -1,0 +1,55 @@
+#box1{
+    width: 200px;
+    height: 200px;
+    color: red;
+    background-color: blue;
+    border: 5px solid black;
+}
+#box2{
+    width: 200px;
+    height: 200px;
+    color: blue;
+    background-color: yellow;
+    border: 5px solid black;
+    /*padding: 20px; /*áp dụng trên dưới trái phải 20px*/
+    /* padding: 20px; /*áp dụng trên dưới trái phải 20px*/
+    /* padding: 20px 40px; /*áp dụng trên dưới 20px, trái phải 40px*/
+    /* padding: 20px 40px 30px; /*áp dụng trên 20px, trái phải 40px, dưới 30px*/
+    padding: 20px 10px 20px 10px; /*áp dụng trên 20px, phải 10px, dưới 20px, trái 10px*/
+}
+
+.box3  {
+    width: 1024px;
+    height: 300px;
+    background-color: yellow;
+    border: 10px ridge red;
+    border-radius: 30px;
+}
+.box6 {
+    width: 1024px;
+    height: 300px;
+    background-color: yellow;
+    border: 10px double blue;
+    border-radius: 30px;
+}
+.box4 {
+    width: 1024px;
+    height: 300px;
+    background-color: yellow;
+    border: 10px solid blue;
+    border-radius: 30px;
+    
+}
+.box5 {
+    width: 1024px;
+    height: 300px;
+    background-color: yellow;
+    border: 10px dotted blue;
+    border-radius: 30px;
+}
+p{
+    font-size: 150%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}

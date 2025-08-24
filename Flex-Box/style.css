@@ -1,0 +1,20 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    flex-direction:row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    /* width: 1000px; */
+    max-width: 70%;
+}
+.flex{
+    width: 200px;
+    height: 200px;
+    background-color: greenyellow;
+    border: 3px solid black;
+    border-radius: 2%;
+    margin: 5px;
+}
